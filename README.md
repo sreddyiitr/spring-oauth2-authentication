@@ -1,7 +1,7 @@
 # spring-oauth2-authentication
 Use Oauth2 to authenticate users to login
 
-### Excerpts from Spring Tutorial to Ad Github App
+### Excerpt from [Spring Tutorial](https://spring.io/guides/tutorials/spring-boot-oauth2/#github-application-config) to Add Github App
 
 To use GitHub’s OAuth 2.0 authentication system for login, you must first Add a [new GitHub app](https://github.com/settings/developers)
 
